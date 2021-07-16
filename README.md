@@ -1,6 +1,6 @@
-Portal Frotas
+Treinaweb Fundamentos
 ======
-Portal Frotas e Orçamento em Python
+inicio do curso de fundamentos
 
 
 Env
@@ -13,3 +13,11 @@ Env
 * Windows
 
 `python -m venv env && env\Scripts\activate.bat && pip install -r requirements.txt`
+
+* REMOVER PASTA GIT
+
+`
+    git rm -r --cached .
+    git add .
+    git commit -am "Remove ignored files"
+`
